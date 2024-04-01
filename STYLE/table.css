@@ -1,0 +1,42 @@
+h2{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+table, th, td{
+    border: 1px solid rgb(15, 108, 62);
+
+    border-collapse: NONE;
+}
+table{
+    width: 100%;
+    th{
+        height:50px;
+        background-color:cadetblue;
+
+    }
+}
+td{
+    text-align: center;
+    height: 30px;
+}
+tr:nth-child(even){
+    background-color: rgb(0, 255, 204);
+}
+tr:hover{
+    background-color:red;
+}
+td img{
+    height: 25px;
+    width: 25px;
+    
+    border-radius: 50%;}
+    table-action{
+    table-style: 1px solid blue:
+    
+
+}
+td exit{ border-bottom: 0cap;
+
+}
+

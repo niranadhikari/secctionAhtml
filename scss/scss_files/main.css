@@ -1,0 +1,32 @@
+.main {
+  height: 100vh;
+  width: 100vw;
+  background-color: green;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: color1;
+}
+h1:hover {
+  color: red;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: white;
+  letter-spacing: 10px;
+  font-family: monospace;
+}
+
+h1:hover {
+  color: red;
+}/*# sourceMappingURL=main.css.map */
